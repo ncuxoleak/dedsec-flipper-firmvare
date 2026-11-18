@@ -1,6 +1,6 @@
 # DedSec Firmware — Flipper Zero
 
-Кастомная прошивка на базе **Momentum Firmware** в стиле DedSec (Watch Dogs).
+Кастомная прошивка на базе **Momentum Firmware** в стиле DedSec (Watch Dogs 2).
 
 ## Как получить готовый .tgz
 
